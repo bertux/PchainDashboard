@@ -23,11 +23,5 @@ module.exports = {
       preProcessor: 'scss',
       patterns: [],
     },
-    i18n: {
-      locale: 'en',
-      fallbackLocale: 'en',
-      localeDir: 'locales',
-      enableInSFC: true,
-    },
   },
 };
