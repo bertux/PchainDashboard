@@ -1,7 +1,7 @@
 <style lang="scss" src="./style.scss"></style>
 
 <template>
-  <footer class="app-footer text-center fixed-bottom" :class="{'is-home': isIndexPage}">
+  <footer class="app-footer">
     <div class="container">
       <div class="content row">
         <p class="col-md-6">
